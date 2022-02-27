@@ -1,0 +1,493 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties declaration to all his loving subjects concerning the treasonable conspiracy against his sacred person and government, lately discovered. Appointed to be read in all churches and chappels within this kingdom. / By His Majesties special command.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79201</idno>
+            <idno type="STC">Wing C2998C</idno>
+            <idno type="STC">ESTC R175744</idno>
+            <idno type="EEBO-CITATION">47683424</idno>
+            <idno type="OCLC">ocm 47683424</idno>
+            <idno type="VID">172790</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79201)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172790)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2650:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties declaration to all his loving subjects concerning the treasonable conspiracy against his sacred person and government, lately discovered. Appointed to be read in all churches and chappels within this kingdom. / By His Majesties special command.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Took and John Crook ... and are to be sold by Mary Crook and Andrew Crook ... and by Joseph Wild ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page has royal arms, with initials "C R", the initial "C" containing the numeral "2".</note>
+                  <note>With: By the Lord Deputy and Council. Arran. It having pleased almighty God by his wonderful providence ... Dublin, Benjamin Took and John Crook ... to be sold by Mary Crook and Andrew Crook, 1683. brs. Item also filmed and cataloged separately at reel 1594:34 (Wing 2nd ed. I420).</note>
+                  <note>Reproduction of original in: Eton College. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rye House Plot, 1683.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172790:1" rendition="simple:additions"/>
+            <pb facs="tcp:172790:1"/>
+            <p>His Majeſties DECLARATION <hi>To all His Loving Subjects</hi>
+Concerning the TREASONABLE CONSPIRACY <hi>Againſt His Sacred Perſon and
+Government,</hi> Lately Diſcovered.</p>
+            <p>Appointed to be Read in all Churches and Chappels within this
+Kingdom.</p>
+            <p>
+               <hi>By His Majeſties Special Command.</hi>
+            </p>
+            <figure>
+               <head>C 2 R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+               <figDesc>royal English blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>Benjamin Took</hi> and <hi>John
+Crook,</hi> Printers to the Kings Moſt Excellent Majeſty, and are to be
+ſold by <hi>Mary Crook</hi> and <hi>Andrew Crook</hi> at His Ma<g ref="char:EOLhyphen"/>jeſties
+Printing-Houſe on <hi>Ormond-Key,</hi> and by <hi>Jo<g ref="char:EOLhyphen"/>ſeph Wild</hi>
+Bookſeller in <hi>Caſtle Street.</hi> 1683.</p>
+         </div>
+         <div type="appointment_to_read">
+            <pb facs="tcp:172790:2"/>
+            <head>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal English blazon or coat of arms</figDesc>
+               </figure> BY THE Lord Deputy and Council.</head>
+            <opener>
+               <signed>ARRAN.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T Having pleaſed Almighty God by his won<g ref="char:EOLhyphen"/>derful Providence,
+and out of his unſpeakable Mercy, in a moſt extraordinary manner to
+deli<g ref="char:EOLhyphen"/>ver His Majeſty from a late horrid and damna<g ref="char:EOLhyphen"/>ble Conſpiracy of bloody
+men; and His Majeſty out of a deep ſenſe thereof, having been pleaſed
+by his Declaration dated the <hi>28th.</hi> of <hi>July 1683.</hi> to appoint a
+day of Publick Thanksgiving to be obſerved &amp; ſolemnly kept throughout
+the King<g ref="char:EOLhyphen"/>dom of <hi>England,</hi> and Principality of <hi>Wales,</hi> upon the
+ninth of <hi>September</hi> next; and by His Letters to Vs, the Lord Deputy,
+hath ſignified his pleaſure, that the like be done in his Kingdom of
+<hi>Ireland,</hi> either upon the ſaid ninth of <hi>September,</hi> or ſome
+other convenient day, as We ſhould direct. Now We, the Lord Deputy and
+Council, in Obedience to His Majeſties ſaid Command, and to the end a
+particular time may be ſet a-part for a publick performance of this Duty, and
+that there may be an entire Vniformity of both Churches and Kingdoms in their
+Publick Thanksgiving to God for ſo great a Deliverance, do hereby Publiſh
+and Declare, and alſo ſtrictly Charge and Command that the ſaid ninth day
+of <hi>September</hi> next be ſet a part, and obſerved as a day of Publick
+Thanksgiving in and throughout His Majeſties King<g ref="char:EOLhyphen"/>dom of <hi>Ireland.</hi>
+And We do direct and appoint that His Majeſties ſaid De<g ref="char:EOLhyphen"/>claration, together
+with this Our Proclamation, be publickly read in all Churches and Chappels, as
+well on Sunday the ſecond of <hi>September</hi> next, as upon the day of
+Thanksgiving aforeſaid; and that the ſame form of Prayer, with
+Thanksgiving, prepared in <hi>England</hi> for that occaſion (which We have
+ordered to be printed here) be alſo on the ſaid ninth day of
+<hi>September</hi> made uſe of in the publick Service and Worſhip of
+God.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the Council Chamber in <hi>Dublin</hi>
+
+                     <date>the <hi>13th.</hi> day of <hi>Auguſt</hi>
+1683.</date>
+                  </hi>
+               </dateline>
+               <signed>
+                  <hi>Mich. Armach, C. Lanesborough, Will Kildare. Ca.
+Dillon. Gha. Feilding, H. Boyle, Will, Davys, John Keating, John Davys, Tho
+Newcomen.</hi>
+               </signed>
+            </closer>
+            <closer>God Save the King.</closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>Benjamin Took</hi> and <hi>John
+Crook,</hi> Printers to the Kings Moſt Excellent Majeſty, and are to be
+ſold by <hi>Mary Crook</hi> and <hi>Andrew Crook</hi> at His Majeſties
+Printing-Houſe on <hi>Ormond-Key,</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:172790:3"/>
+            <pb n="3" facs="tcp:172790:3"/>
+            <head>
+               <hi>His</hi> Majeſties <hi>Declaration to all His Loving
+Subjects concerning the Trea<g ref="char:EOLhyphen"/>ſonable</hi> Conſpiracy <hi>againſt His</hi>
+ſa<g ref="char:EOLhyphen"/>cred Perſon <hi>and</hi> Government, <hi>lately diſcovered. Appointed
+to be Read in all</hi> Churches <hi>and</hi> Chappels <hi>within this
+Kingdom.</hi>
+            </head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>IT hath been Our Obſervation, that for ſeveral Years laſt
+paſt, a Malevolent Party hath made it their buſineſs to promote Sedition
+by falſe News, Libellous Pamphlets, and other wicked Arts; whereby they
+endeavoured not only to render Our Government odious, and Our moſt Faithful
+Subjects ſuſpected to the people, but even to incite them to a diſlike
+and hatred of Our Royal Perſon: Whereupon it was evident to Us, that the
+Heads of this Party could have no other aim, but the ruine of Us and Our
+Government.</p>
+            <p>And whilſt by Our utmoſt care, We manifeſted to all our
+Subjects Our Zeal for the maintenance of the Proteſtant Religion, and Our
+reſolutions to Govern according to Law; It was a great trouble to Us to find,
+that evil perſons by miſrepreſenting Our actions to the people, ſhould
+ſo far inſinuate themſelves into the affections of the weaker ſort, as
+that they looked upon them as the only Patriots and Aſſertors of their
+Religion and Liberties, and gave themſelves up en<g ref="char:EOLhyphen"/>tirely to their
+Conduct.</p>
+            <pb n="4" facs="tcp:172790:4"/>
+            <p>As their numbers increaſed, ſo did their boldneſs, to that
+height, that by often ſhewing themſelves in Tumults and Riots, and unlawful
+and ſeditious Con<g ref="char:EOLhyphen"/>venticles, they not only engaged, but proclaimed an
+Impunity to their own Party, who thought them<g ref="char:EOLhyphen"/>ſelves already too ſtrong for
+the Laws; and they ſeemed to believe, that in a ſhort time they ſhould
+gain upon the people, ſo as to perſwade them to a total Defection from the
+Government.</p>
+            <p>But it pleaſed God, by theſe their violent ways, to open the
+eyes of Our good Subjects, who eaſily fore<g ref="char:EOLhyphen"/>ſaw what troubles theſe
+methods would produce; and thereupon with great courage, as well as duty and
+affection towards Us, upon all occaſions did manifeſt their reſolution
+and readineſs in defence of Our Per<g ref="char:EOLhyphen"/>ſon, and ſupport of Our Government,
+and the Reli<g ref="char:EOLhyphen"/>gion Eſtabliſhed: and did likewiſe convince the com<g ref="char:EOLhyphen"/>mon
+people of the villanous deſigns of their Factious Leaders, and the miſeries
+that would befal them in purſuing ſuch courſes.</p>
+            <p>By theſe means the Factious Party loſt ground daily, and
+finding that it was impoſſible to keep up the ſpirits of their Followers,
+againſt the Religion Eſtabliſhed, and the Laws; whilſt we were ſteady
+in the maintenance and execution of them, became de<g ref="char:EOLhyphen"/>ſperate, and reſolved
+not to truſt any longer to the ſlow methods of Sedition, but to betake
+themſelves to Arms; not doubting but that they remained ſtill ſtrong
+enough by Force to overturn the Government, which they could not undermine.</p>
+            <p>It is hard to imagine how men of ſo many differ<g ref="char:EOLhyphen"/>ent Intereſts
+and Opinions could joyn in any Enter<g ref="char:EOLhyphen"/>prize; but it is certain, they readily
+concurred in the reſolution of taking Arms to deſtroy the Govern<g ref="char:EOLhyphen"/>ment, even
+before they had agreed what to ſet up in the place of it.</p>
+            <pb n="5" facs="tcp:172790:4"/>
+            <p>To which purpoſe they took ſeveral ways; For, whilſt ſome
+were contriving a general Inſurrection in this Kingdom, and likewiſe in
+<hi>Scotland;</hi> others were conſpiring to <hi>Aſſaſſinate</hi> Our
+Royal Perſon, and Our Deareſt Brother, and to maſſacre the
+Magiſtrates of Our City of <hi>London,</hi> and Our Officers of State, that
+there might be no appearance of Government, nor any means for Our Subjects to
+unite for their De<g ref="char:EOLhyphen"/>fence.</p>
+            <p>In caſe it had pleaſed God to permit theſe wicked deſigns
+to have taken Effect, there could have been nothing in proſpect but
+confuſion: For, inſtead of the Reformation they pretended, their
+ſucceſs would have produced Diviſions and Wars among themſelves, until
+the predominant Party could have enſlaved the reſt, and the whole
+Kingdom.</p>
+            <p>But the Divine Providence, which hath preſerved Us through the
+whole courſe of Our life, hath at this time in an extraordinary manner
+ſhewed it ſelf in the wonderful and gracious deliverance of Us and Our
+Deareſt Brother, and all Our Loyal Subjects from this Horrid and Damnable
+Conſpiracy.</p>
+            <p>As it is therefore Our deſire that all Our Loving Subjects
+ſhould joyn with Us in giving Thanks to Al<g ref="char:EOLhyphen"/>mighty God for this mercy, ſo We
+thought it neceſſary they ſhould be now in ſome meaſure Informed of
+the Fact as it hath been Diſcovered to Us by undoubted proof, and the
+confeſſion of divers of the Accomplices in this Conſpiracy; whereof,
+though We have not as yet perfectly Traced all the Particulars, the principal
+and main Deſigns of it nevertheleſs, have appeared to be as followeth.</p>
+            <p>About the beginning of <hi>October</hi> laſt, when the Heads of
+the Faction ſaw the Magiſtracy of Our City of <hi>London</hi> Settled in
+Perſons of Loyal principles, they <pb n="6" facs="tcp:172790:5"/>became impatient, and
+fell immediately to Conſult of Riſing in Arms; for which ſome thought
+their Party ſo well prepared, that they could not fail of at<g ref="char:EOLhyphen"/>taining their
+ends whenever they ſhould break out into open Force.</p>
+            <p>Whereupon there was a meeting of ſome of the prin<g ref="char:EOLhyphen"/>cipal
+Conſpirators, to Agree about the beſt means to Maſter Our Guards, and to
+Seize Our Perſon; but upon Conſideration, they found it neceſſary to
+pre<g ref="char:EOLhyphen"/>pare their Friends in the ſeveral Counties, as alſo the Diſaffected
+party in <hi>Scotland</hi> to joyn with them, without which, any Attempt in Our
+ſaid City, or upon Our Guards, appeared too raſh to be underta<g ref="char:EOLhyphen"/>ken; ſo
+that they laid aſide the thoughts of a preſent Riſing, and diſpoſed
+themſelves to find, by a Correſ<g ref="char:EOLhyphen"/>pondence with <hi>Scotland,</hi> and with
+ſeveral parts of this Our Kingdom, how far they might be Aſſiſted by a
+General Inſurrection, ſo that they might not in Human probability fail of
+Succeſs.</p>
+            <p>Whilſt this firſt Deſign was Forming, ſome Vil<g ref="char:EOLhyphen"/>lains were
+likewiſe carrying on that Horrid and Exe<g ref="char:EOLhyphen"/>crable Plot of Aſſaſſinating
+Our Royal Perſon, and Our Deareſt Brother, in Our coming from
+<hi>Newmarket,</hi> and Mony was depoſited for that purpoſe: But by the
+ſhortneſs of the time (We being then immedi<g ref="char:EOLhyphen"/>ately upon Our Return) and for
+want of necceſſary preparations, they were forced to defer the Execu<g ref="char:EOLhyphen"/>tion
+of it till further Opportunity.</p>
+            <p>It was then propoſed among them, Whether they ſhould Attempt
+the ſame at Our next going to <hi>New<g ref="char:EOLhyphen"/>market,</hi> in <hi>March</hi> laſt?
+But ſome objected, That Our Guards, which uſually remain here ſome time
+after Our Departure, would be capable of making a great Oppoſition upon the
+arrival of the News. For which Reaſon, and becauſe they were not then in a
+Suffi<g ref="char:EOLhyphen"/>cient <pb n="7" facs="tcp:172790:5"/>Readineſs; It was Agreed to be done at Our
+Return from <hi>Newmarket.</hi>
+            </p>
+            <p>The place appointed was the Houſe of one <hi>Richard
+Rumbold</hi> a Malſter, called the <hi>Rye,</hi> near <hi>Hoddeſdon</hi> in
+the County of <hi>Hertford:</hi> And it was Reſolved, That Forty-perſons in
+number, who were to be Actors in this Aſſaſſination, under the Command
+of the ſaid <hi>Richard Rumbold,</hi> ſhould hide themſelves in or near
+the ſaid Houſe; And when Our Coach ſhould come over againſt them, then
+Three or Four were to Shoot with Blunderbuſſes at the Poſtilion and
+Horſes, and if they ſhould fail killing the Horſes, ſome were to be
+ready in the way, who in the Habit of Labourers ſhould turn a Cart croſs
+the paſſage, and ſo ſtop Our Coach. Others were apointed to Shoot into
+the Coach, where Our Royal Perſon, and Our Deareſt Brother were to be,
+others to Fire upon the Guards that ſhould be then attending Us. And it was
+fur<g ref="char:EOLhyphen"/>ther Reſolved, that upon the ſame Day, Many Lords and other perſons
+of Quality, whom they ſuppoſed favourable to their Deſign, ſhould be
+invited to dine in Our City of <hi>London,</hi> that they might be the more
+ready to appear among the Citizens upon arrival of the News. The Actors in the
+ſaid Aſſaſſination having Contrived the manner of their eſcape, by
+a nearer paſſage than the uſual Road, By which means they hoped to get to
+<hi>London</hi> as ſoon as the News could be brought thither.</p>
+            <p>They thought it would be eaſie upon their per<g ref="char:EOLhyphen"/>petrating this
+Horrid Fact, to poſſeſs them ſelves of the Government, preſuming upon
+the numbers of the Diſaffected.</p>
+            <p>But leſt the blackneſs of ſuch an Action might de<g ref="char:EOLhyphen"/>ter any
+from joyning with them, they prepared to palliateit as far as they could, by
+ſome remonſtrance, or <pb n="8" facs="tcp:172790:6"/>Declaration, which was ready to be
+Printed and diſ<g ref="char:EOLhyphen"/>perſed in that Confuſion, to amuſe the people. And
+leſt Our Officers of State, and the Magiſtrates of Our ſaid City, with
+the <hi>Militia</hi> thereof, and other Our Loyal Subjects, ſhould be able to
+put ſome ſtop to their Carrier, they reſolved to follow this Blow with a
+Maſſacre; wherein they particularly deſigned for immediate Slaughter, Our
+Officers of State, the preſent Lord Mayor, and Sheriffs, and the Magiſtracy
+of our City, and other our Subjects that had been moſt Eminent for their
+Loyalty.</p>
+            <p>But it pleaſed Almighty God, by His wonderful providence, to
+defeat theſe Councels by the ſudden Fire at <hi>Newmarket,</hi> which
+neceſſitated Our return from thence before the time We had appointed.</p>
+            <p>Yet theſe Villains were not thereby diſcouraged from
+purſuing the ſame Bloudy Deſign, but reſolved to take the firſt
+opportunity for effecting the ſame, and propoſed to themſelves that it
+might be done either in Our paſſage from <hi>Windſor</hi> to <hi>Hampton
+Court,</hi> or in Our journey to <hi>Wincheſter,</hi> or when We ſhould go
+by Water in Our Barge, or under <hi>Bedford</hi> Garden Wall, as We ſhould
+paſs that way, or at the Bull Feaſt, which was to be in <hi>Red-Lion
+Fields;</hi> they being informed that We and Our Deareſt Brother had
+intentions of coming thither.</p>
+            <p>And that they might be the better prepared when there ſhould be
+occaſion, by having a certain number of <hi>Arms</hi> lying always ready for
+that purpoſe; <hi>Arms</hi> for forty men were beſpoke in all haſte,
+<hi>(viz.)</hi> thirty Carbines, with Belts and Swivels, thirty Caſes of
+Pi<g ref="char:EOLhyphen"/>ſtols, and ten Blunderbuſſes, which were accordingly made, and paid
+for.</p>
+            <p>And for the more eaſie drawing their Party toge<g ref="char:EOLhyphen"/>ther againſt
+the time of Execution, they contrived to <pb n="9" facs="tcp:172790:6"/>divide Our Cities of
+<hi>London</hi> and <hi>Weſtminſter,</hi> and the Suburbs into twenty
+parts; from each of which they expected five hundred men to be ready at the
+firſt Onſet; and ſome Agitators were to give an account of the men to be
+furniſhed in each diviſion, and to give out Orders to them, as there
+ſhould be occaſion.</p>
+            <p>And to the end the Forces they ſhould raiſe might be the
+ſooner modelled into the form of an <hi>Army,</hi> there were one hundred Old
+Officers, who had been engaged in the late Rebellion, ready in Town to take the
+Command of them; In the purſuit of which pro<g ref="char:EOLhyphen"/>ject they continued, till they
+knew that a diſcovery had been made to Us.</p>
+            <p>During all this time, the principal Conſpirators were managing
+their other deſign for a general In<g ref="char:EOLhyphen"/>ſurrection in both Kingdoms.</p>
+            <p>The late Earl of <hi>Shaftsbury,</hi> who had at firſt
+preſ<g ref="char:EOLhyphen"/>ſed them to ſudden Riſing, which he would have had before the
+ſeventeenth of <hi>November</hi> laſt, or upon that day at the fartheſt,
+ſent to the Conſpirators, at a Meeting appointed by them, to know their
+reſolu<g ref="char:EOLhyphen"/>tion; and finding they would not adventure without farther
+preparation, conveyed himſelf ſecretly into <hi>Holland,</hi> to avoid the
+danger he might be in by a diſcovery.</p>
+            <p>His withdrawing himſelf from their Councels, did not
+diſcourage them from purſuing their deſign, only made them more cautious;
+whereupon a new Coun<g ref="char:EOLhyphen"/>cel was appointed of ſix perſons that were to have the
+chief management of Affairs, in order to a general Inſurrection, by a
+correſpondency with their Party in <hi>Scotland,</hi> and ſeveral Counties
+of this Our King<g ref="char:EOLhyphen"/>dom. And becauſe a correſpondency by Letters was thought
+dangerous, it was held neceſſary that ſome perſon ſhould be ſent
+into <hi>Scotland,</hi> to invite the <pb n="10" facs="tcp:172790:7"/>Heads of the
+diſaffected Party in that Our Kingdom, to come hither, under pretence of
+purchaſing Lands in <hi>Carolina;</hi> but, in truth, to concert with them
+the beſt means for carrying on the deſign joyntly in both Kingdoms: And a
+Treaty was thereupon had with <hi>Archibald Campbell</hi> late Earl of
+<hi>Argile,</hi> already At<g ref="char:EOLhyphen"/>tainted of Treaſon, who demanded thirty
+thouſand Pounds at firſt; but afterward agreed to accept of ten thouſand
+pounds for buying of Arms in <hi>Holland,</hi> and making other proviſions
+neceſſary for a Rebel<g ref="char:EOLhyphen"/>lion within Our Kingdom of <hi>Scotland.</hi>
+            </p>
+            <p>In the ſaid Councel of Six it was debated, whether the Riſing
+in this Kingdom ſhould be firſt in our City of <hi>London,</hi> where, by
+reaſon of the vaſt numbers that might readily unite, they thought they
+might eaſily maſter the Guards, or rather in ſome remote parts, whereby
+We ſhould be under a neceſſity of ſending Our Guards to ſuppreſs
+them, and thereby the Riſing in Our ſaid City would become more ſecure
+and ef<g ref="char:EOLhyphen"/>fectual: But at laſt it was reſolved, as moſt conve<g ref="char:EOLhyphen"/>nient, that it
+ſhould be in all parts at the ſame time, leſt Our City might be defended
+by the <hi>Militia</hi> thereof, without the help of Our Guards, which We might
+ſend for the ſuppreſſing any Inſurrection in the Countrey; and they
+did all diſpoſe themſelves accordingly, for the compaſſing their
+deſign, which was very near taking effect.</p>
+            <p>But ſuch was the abundant mercy of Almighty God, while they were
+yet meditating their execrable Miſchiefs againſt Our Royal Perſon, Our
+Deareſt Brother, and the Government, a Diſcovery was made unto Us by one of
+the Accomplices, on the twelfth of <hi>June</hi> laſt; ſince which time We
+have uſed the beſt means we could for the Detecting, and prevention of ſo
+Helliſh a Conſpiracy.</p>
+            <pb n="11" facs="tcp:172790:7"/>
+            <p>But ſo it has happened, That divers of the Con<g ref="char:EOLhyphen"/>ſpirators,
+having notice of Warrants iſſued out for their Apprehenſion, are fled
+from Juſtice: <hi>Viz. James</hi> Duke of <hi>Monmouth,</hi> the Lord
+<hi>Melvin,</hi> Sir <hi>John Coch<g ref="char:EOLhyphen"/>rane,</hi> Sir <hi>Thomas Armeſtrong,
+Robert Ferguſon,</hi> who was the common Agitator entruſted by all Parties
+in the ſeveral Conſpiracies, <hi>Richard Goodenough, Francis Goodenough,
+Richard Rumbold</hi> the Maltſter, <hi>William Rumbold</hi> his Brother,
+<hi>Richard Nelthorp, Nathaniel Wade, William Thompſon, James Burton,
+Joſeph Elby; Samuel Gibbs, Francis Charleton, Joſeph Tyle,
+<gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Caſteers, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Lobb,</hi> both
+Nonconformiſt Preachers, <hi>Edward Nor<g ref="char:EOLhyphen"/>ton, John Row, John Ayloff,</hi> and
+<hi>John Atherton.</hi>
+            </p>
+            <p>
+               <hi>Ford</hi> Lord <hi>Gray</hi> being Apprehended, made his
+Eſcape out of the hands of a Serjeant at Arms, and <hi>Arthur</hi> late Earl
+of <hi>Eſſex</hi> being committed to the <hi>Tower</hi> for High Treaſon,
+killed himſelf.</p>
+            <p>Others have been taken and committed to Cuſto<g ref="char:EOLhyphen"/>dy, ſome of
+whom, <hi>viz.</hi> the Lord <hi>William Ruſſel, Thomas Walcot, William
+Hone,</hi> and <hi>John Rouſe,</hi> have upon their Tryals been Convicted,
+Attainted, and Executed according to Law</p>
+            <p>This we thought fit to make known to our Lo<g ref="char:EOLhyphen"/>ving Subjects, that
+they being ſenſible (as We are) of the Mercy of God in this great
+Deliverance, may chearfully and devoutly joyn with Us in returning ſolemn
+Thanks to Almighty God for the ſame.</p>
+            <p>For which end We do hereby appoint the ninth day of
+<hi>September</hi> next to be obſerved as a day of Thanksgiving in all
+Churches and Chappels within this Our Kingdom of <hi>England,</hi> Dominion of
+<hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> in ſuch
+manner as ſhall be by Us directed in a Form of Prayer, with Thanksgiving,
+which We have Commanded to <pb n="12" facs="tcp:172790:8"/>be prepared by Our Biſhops, and
+publiſhed for that purpoſe.</p>
+            <p>And it is Our Pleaſure, That this Declaration be publickly Read
+in all the ſaid Churches and Chap<g ref="char:EOLhyphen"/>pels, as well on Sunday the ſecond of
+<hi>September next,</hi> as upon the day of Thankſgiving aforeſaid.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at</hi> Whitehall
+<date>
+                     <hi>the Eight and twentieth day of</hi> July, 1683. <hi>In
+the Five and thirtieth Year of Our Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>At the Court at <hi>Whitehall</hi>
+                  <date>this <hi>27th.</hi> of <hi>July,</hi> 1683.</date>
+               </dateline>
+
+               <signed>By the Kings Moſt Excellent Majeſty, and the Lords of
+His Majeſties moſt Honourable Privy Council.</signed>
+            </opener>
+            <p>IT is this day Ordered by His Majeſty in Council, That this
+Declaration be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>Phil. Lloyd.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
